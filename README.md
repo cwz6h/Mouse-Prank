@@ -10,4 +10,6 @@ Open Command Prompt And Type The Following:
 
 gcc mouseprank1.c
 
-You Will need MinGW Installed And Be In The Directory Of Where The Mouse Prank File Is
+If You Were Given An Error But Were Given Your Executable, Simply Ignore It.
+
+NOTE: You Will need MinGW Installed And Be In The Directory Of Where The Mouse Prank File Is
