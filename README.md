@@ -8,7 +8,7 @@ This Is A Mouse Prank To Prank Your Freinds That Their Mouse Is Not Working. Com
 
 Open Command Prompt And Type The Following:
 
-> **gcc mouseprank1.c**
+> **gcc mouseprank1.c -o MousePrank**
 
 ## Notes
 
