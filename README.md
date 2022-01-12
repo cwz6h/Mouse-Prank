@@ -6,11 +6,13 @@ This Is A Mouse Prank To Prank Your Freinds That Their Mouse Is Not Working. Com
 
 If You Are Downloading From Releases Using The .exe File Ignore All The Warnings From Your Browser And Windows. It Is Completely Safe. If You Wish To Not Receive The Warning, Download The Source Code And Follow The Compiling Section.
 
-# Compiling
+## Compiling
 
 Open Command Prompt And Type The Following:
 
-gcc mouseprank1.c
+**gcc mouseprank1.c**
+
+## Notes
 
 If You Were Given An Error But Were Given Your Executable, Simply Ignore It.
 
