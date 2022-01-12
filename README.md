@@ -25,6 +25,6 @@ Programmed Using C WIth Built In C Files In Windows, Such As <Windows.h>
 
 > **I Own This Program As This Is Not A Fork Of Any Other Program And Was Made From Scratch With No Source Code.**
 
-> **You Can However Download It And Modify It In Your Own Way If You Would Like And Publish It As A Fork On Github.**
+> **You Can However Download It And Modify It In Your Own Way If You Would Like. And Publish It As A Fork On Github.**
 
 **Programmed By hackNcode. (J.B. 3)**
