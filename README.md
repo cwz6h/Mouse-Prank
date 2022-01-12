@@ -14,6 +14,6 @@ Open Command Prompt And Type The Following:
 
 If You Were Given An Error But Were Given Your Executable, Simply Ignore It.
 
-NOTE: You Will need MinGW Installed And Be In The Directory Of Where The Mouse Prank File Is
+You Will need MinGW Installed And Be In The Directory Of Where The Mouse Prank File Is
 
 If You Need Help, Join The Discord: https://discord.gg/ghFrHczuvU
