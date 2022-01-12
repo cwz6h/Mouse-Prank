@@ -10,7 +10,7 @@ If You Are Downloading From Releases Using The .exe File Ignore All The Warnings
 
 Open Command Prompt And Type The Following:
 
-**gcc mouseprank1.c**
+> gcc mouseprank1.c
 
 ## Notes
 
